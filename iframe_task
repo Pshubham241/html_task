@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<marquee  scrollamount="10" bg="red" direction="left" height="100px" width="70%"   bgcolor="red"  loop="1" >vote for bharat janta party (BJP)</marquee>
+<body >
+	<table align="center" border="1" cellspacing="0" width="500" hight="500">
+		<h1 align="center">Prime Minister Narendra Modi</h1>
+<tr>
+
+	<td colspan="3" align="center" bgcolor="pink">
+		<iframe  height="500"width="500" name="modi ji"></iframe>
+		<a href="C:\Users\Khyati\Desktop\Narendra-Mod-Rare-Images-01.jpg" target="modi ji">old n'modi</a>
+			</td>
+	
+</tr>
+
+<tr>
+	<td bgcolor="yellow">
+		<iframe height="500"width="500" name="modii"></iframe>
+		<a href="https://en.wikipedia.org/wiki/Narendra_Modi" target="modii">pm modi wiki</a>
+	</td>
+	<td bgcolor="orange">
+		<iframe height="500"width
+		="500" name="PM modi"></iframe>
+		<a href="C:\Users\Khyati\Desktop\Narendra-Modi-Whatsapp-Status---grand-entry-on-rajpath.mp4" target="PM modi">lecture</a>
+	</td>
+	<td bgcolor="red">
+		<iframe  height="500"width="500" name="N'modi"></iframe>
+		<p>Narendra modi &  Heera ben modi </p>
+		<a href="C:\Users\Khyati\Desktop\pm modi mom.jpeg" target="N'modi">modi-mom</a>
+	</td>
+	
+</tr>
+<tr>
+	<td colspan="3" align="center" bgcolor="blue">
+		<iframe src="C:\Users\Khyati\Desktop\images.jpg" height="200"width="300" ></iframe></td></tr><br>
+		
+		
+			
+		
+		
+
+</table>
+
+</body>
+</html>
