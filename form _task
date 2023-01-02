@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>form </title>
+</head>
+<body>
+<form>
+	<table border="1" align="center" bgcolor="blue" cellspacing="0">
+		<tr>
+		<td> Email:</td>
+		<td>
+			<input type="Email:"name="Email" ></td>
+		</tr>
+		</br>
+		<tr>
+			<td> password :</td>
+			<td>
+			<input type="password" >
+		</td></tr>
+		<br>
+
+		<tr align="center">
+			<td colspan="2"><input type="checkbox">Remenber me</td></br>
+		</tr>
+		<tr align="center">
+	<td colspan="2"><button type="Login" valve="Login">Login</button></td>
+
+
+		
+	</table>
+</form>
+</body>
+</html>
