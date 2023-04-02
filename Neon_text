@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>text neon01</title>
+	<style type="text/css">
+		body
+		{
+			background: #000;
+		}
+		
+		p
+		{
+			font-size: 150px;
+			text-transform: uppercase;
+			text-decoration: underline;
+			letter-spacing: 5px;
+			word-spacing: 2px;
+			color: #fff;
+			margin: 250px 550px;
+			text-shadow: 0 0 10px pink, 0 0 20px pink, 0 0 40px pink, 0 0 60px pink, 0 0 80px blue, 0 0 100px blue,0 0 120px blue, 0 0 140px blue;
+			cursor: pointer;
+			
+			
+
+		}
+	</style>
+</head>
+<body>
+
+
+
+
+
+<p>shubham</p>
+</body>
+</html>
